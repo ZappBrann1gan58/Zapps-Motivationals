@@ -9,6 +9,10 @@ div {
     font-family: 'Abril Fatface', cursive;
 }
 
+h1 {
+    text-transform: uppercase;
+}
+
 img {
     border: 5px solid #e9c46a;
     width: 900px;
