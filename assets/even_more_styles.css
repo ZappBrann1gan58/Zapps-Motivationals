@@ -9,6 +9,10 @@ div {
     font-family: 'Source Code Pro', monospace;
 }
 
+h1{
+    text-transform: uppercase;
+}
+
 img {
     border: 5px solid #f35b04;
     width: 900px;
